@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sn3rBPCDPUCkWIcZ1dPY+n/YZyTSzWoqAh2rcDMr+ds0vKL4PnfltzZYYNbAIf4s2DgX5X9rKe68wG9tlr/xVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Antônio Rocha\\source\\repos\\Azure\\Azure\\azure-app\\azure-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Antônio Rocha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
