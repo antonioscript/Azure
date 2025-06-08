@@ -1,5 +1,2 @@
 # Azure
-Repositório de case para as principais funcionalidades do Azure para desenvolvedores .NET
-
-## Referências
-https://www.udemy.com/course/microsoft-azure-for-net-developers
+This project centralizes my notes, labs, summaries, and insights gathered during my study of Microsoft Azure certifications
